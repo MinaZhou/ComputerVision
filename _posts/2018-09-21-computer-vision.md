@@ -1,5 +1,7 @@
 #Computer Vision Learning
+
 ##Learning Resource
+
 [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
 [Linear Algebra Mit Open Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
