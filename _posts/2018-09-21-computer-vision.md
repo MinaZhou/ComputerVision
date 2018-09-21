@@ -1,6 +1,6 @@
-#Computer Vision Learning
+#Computer Vision Learning#
 
-##Learning Resource
+##Learning Resource##
 
 [Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 
